@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"About This Website\"\n---\n\nMore about this website.\n\n",
+    "created" : 1509984187950.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2601315153",
+    "id" : "76BD5260",
+    "lastKnownWriteTime" : 1509984210,
+    "last_content_update" : 1509984210253,
+    "path" : "C:/Users/Felipe/Desktop/uaibmbfen/about_en.Rmd",
+    "project_path" : "about_en.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
