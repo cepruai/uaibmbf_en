@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"my-website\"\noutput_dir: \".\"\nnavbar:\n  title: \"BMBF\"\ntype: inverse\nleft:\n  - text: \"Home\"\nicon: fa-home\nhref: index_en.html\n- text: \"Staff\"\nicon: fa-info\nhref: equipo.html\n- text: \"BMBF Project\"\nicon: fa-info\nhref: quienessomos_en.html\n- text: \"Data\"\nicon: fa-info\nhref: datos.html\n- text: \"Preliminary Results\"\nicon: fa-info\nhref: resultados.html\n- text: \"Language\"\nicon: fa-language\nhref: resultados.html\n.topnav a {\n  float: left;\n  display: block;\n  color: #f2f2f2;\n    text-align: center;\n  padding: 14px 16px;\n  text-decoration: none;\n  font-size: 17px;\n}\n\n.topnav a:hover {\n  background-color: #ddd;\n    color: black;\n}\n\n.topnav a.active {\n  background-color: #4CAF50;\n    color: white;\n}\n",
+    "created" : 1509982986948.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3425381025",
+    "id" : "8B7BFD78",
+    "lastKnownWriteTime" : 1509983002,
+    "last_content_update" : 1509983002338,
+    "path" : "C:/Users/Felipe/Desktop/uaibmbfen/_site_en.yml",
+    "project_path" : "_site_en.yml",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
