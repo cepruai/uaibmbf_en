@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Loreto Bieritz\"\noutput: html_document\n---\n<html>\n<body>\n \n<img src=\"loreto.jpg\" width=\"299\" height=\"350\" align= top * left * bottom>\n\n<table border=\"2\">\n\n<tr>\n<td> <font size=\"2\" color=\"black\"> Research:</font>\n </td>\nCiclos Económicos, \n<td> <font size=\"2\" color=\"black\"> Business Cycle, Economic Activities, Regional Issues </font></td>\n\n<tr>\n\n<td> <font size=\"2\" color=\"black\"> Education:</font>\n </td>\n\n<td> <font size=\"2\" color=\"black\"> Ph. Degree in Regional Studies of Latin America from the University of Cologne, 2000 </font>\n</td>\n\n</tr>\n\n<tr>\n<td> <font size=\"2\" color=\"black\"> Contact:</font> </td>\n\n<td> <font size=\"2\" color=\"black\"> bieritz  at gws-os.com </font> </td>\n\n</tr>\n\n<tr> \n<td > <font size=\"2\" color=\"black\"> Web </font> </td> \n<td> </td>\n\n<tr>\n<td> \n<font size=\"2\" color=\"black\"> About: </font> </td>\n<td><font size=\"2\" color=\"black\"> \nLoreto Bieritz is a researcher at GWS in the division of Economic and Social Affairs since November 2008. Within the project of sector analysis and forecasting, she is in charge of the project management as well as of the analysis of the real estate sector, logistics and business services. Since October 2016, she participates in a joint research project on behalf of the German Federal Ministry of Education and Research concerning the “Development of Sustainable Mining Strategies in Chile with a Regionalized National Model“.</font>\n</td>\n</tr>\n</tr>\n\n\n</table> \n\n- <a href=\"equipo.html\"> Team </a>\n\n</body>\n\n\n</html>",
+    "created" : 1510023197671.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3214899925",
+    "id" : "CD18E130",
+    "lastKnownWriteTime" : 1510023259,
+    "last_content_update" : 1510023259835,
+    "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/loreto.Rmd",
+    "project_path" : "loreto.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -10,14 +10,14 @@ output: html_document
 <table border="2">
 
 <tr>
-<td> <font size="2" color="black"> Área de Investigación:</font>
+<td> <font size="2" color="black"> Research :</font>
  </td>
 
-<td> <font size="2" color="black"> Macroeconomía , Macro-econometric input-output models. </font></td>
+<td> <font size="2" color="black"> Macroeconomics , Macro-econometric input-output models. </font></td>
 
 <tr>
 
-<td> <font size="2" color="black"> Educación:</font>
+<td> <font size="2" color="black"> Education:</font>
  </td>
 
 <td> <font size="2" color="black"> PhD, University Osnabrück, 2017. </font>
@@ -26,21 +26,23 @@ output: html_document
 </tr>
 
 <tr>
-<td> <font size="2" color="black"> Contacto:</font> </td>
+<td> <font size="2" color="black"> Contact:</font> </td>
 
 <td> <font size="2" color="black"> grossmann at gws-os.com </font> </td>
 
 </tr>
 
 <tr> 
-<td > <font size="2" color="black"> Sitio Web: </font> </td> 
+<td > <font size="2" color="black">  Web: </font> </td> 
 <td>  http://www.gws-os.com/de/index.php/wirtschaft-soziales/team/details/member/18.html  </td>
 
 <tr>
 <td> 
-<font size="2" color="black"> Reseña: </font> </td>
+<font size="2" color="black"> About: </font> </td>
 <td><font size="2" color="black"> 
-Sus áreas de interés son el desarrollo de modelos de pronósticos y la cuantificación de efectos de políticas macroeconómicas. Recientemente ha estado involucrada en el análisis de impacto económico y mediciones de política mediocambiental y su representación en los denominados E3 models (economy, energy, enviromental). </font>
+Her main fields of interest are the development of computer based national and global forecasting and simulation models for e. g. Austria, Germany and Russia and the quantification of macroeconomic effects of policy measures. Most recently she was mainly involved in the impact analysis of economic and environmental policy measures and their representation in so-called E3 (economy, energy, environment) models. Currently, Mrs. Großmann is increasingly working on industry analysis and (socio-)economic modelling of e.g. demographic issues. Within the research project “Development of Sustainable Mining Strategies in Chile with a Regionalized National Model”, she is responsible for modelling the Chilean Regions.
+She conducts international model building workshops based on the model building framework "PortableDyme". At the "International Congress on Environmental Modelling and Software" (iEMSs 2016), her presentation "E3.pt – an E3 PortableDyme model for Portugal" about the development of the "e3.pt" model for Portugal with the "PortableDyme" model building framework was awarded the "Best Student Paper and Presentation" price.
+ </font>
 </td>
 </tr>
 </tr>
@@ -48,7 +50,7 @@ Sus áreas de interés son el desarrollo de modelos de pronósticos y la cuantif
 
 </table> 
 
-- <a href="equipo.html"> Volver a Equipo </a>
+- <a href="equipo.html"> Team </a>
 
 </body>
 

@@ -10,14 +10,14 @@ output: html_document
 <table border="2">
 
 <tr>
-<td> <font size="2" color="black"> Área de Investigación:</font>
+<td> <font size="2" color="black"> Research:</font>
  </td>
 Ciclos Económicos, 
 <td> <font size="2" color="black"> Business Cycle, Economic Activities, Regional Issues </font></td>
 
 <tr>
 
-<td> <font size="2" color="black"> Educación:</font>
+<td> <font size="2" color="black"> Education:</font>
  </td>
 
 <td> <font size="2" color="black"> Ph. Degree in Regional Studies of Latin America from the University of Cologne, 2000 </font>
@@ -26,21 +26,21 @@ Ciclos Económicos,
 </tr>
 
 <tr>
-<td> <font size="2" color="black"> Contacto:</font> </td>
+<td> <font size="2" color="black"> Contact:</font> </td>
 
 <td> <font size="2" color="black"> bieritz  at gws-os.com </font> </td>
 
 </tr>
 
 <tr> 
-<td > <font size="2" color="black"> Sitio Web </font> </td> 
+<td > <font size="2" color="black"> Web </font> </td> 
 <td> </td>
 
 <tr>
 <td> 
-<font size="2" color="black"> Reseña: </font> </td>
+<font size="2" color="black"> About: </font> </td>
 <td><font size="2" color="black"> 
-Investigadora del GWS en la división Economic and Social Affairs desde Noviembre del 2008. Dentro del proyecto de análisis de sectores y predicciones, ella ha estado a cargo de la gestión del proyecto. Desde Octubre del 2016, ha participado en proyectos de investigación de la mano con el Ministerio de Educación alemán y en investigación relacionada al proyecto “Development of Sustainable Mining Strategies in Chile with a Regionalized National Model“. </font>
+Loreto Bieritz is a researcher at GWS in the division of Economic and Social Affairs since November 2008. Within the project of sector analysis and forecasting, she is in charge of the project management as well as of the analysis of the real estate sector, logistics and business services. Since October 2016, she participates in a joint research project on behalf of the German Federal Ministry of Education and Research concerning the “Development of Sustainable Mining Strategies in Chile with a Regionalized National Model“.</font>
 </td>
 </tr>
 </tr>
@@ -48,7 +48,7 @@ Investigadora del GWS en la división Economic and Social Affairs desde Noviembr
 
 </table> 
 
-- <a href="equipo.html"> Volver a Equipo </a>
+- <a href="equipo.html"> Team </a>
 
 </body>
 

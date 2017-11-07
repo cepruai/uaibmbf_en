@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Anke Mönning\"\noutput: html_document\n---\n<html>\n<body>\n \n<img src=\"anke.png\" width=\"299\" height=\"350\" align= top * left * bottom>\n\n<table border=\"2\">\n\n<tr>\n<td> <font size=\"2\" color=\"black\"> Research:</font>\n </td>\n\n<td> <font size=\"2\" color=\"black\"> Structural change, Labour Market, International Trade, Input-output modelling</font></td>\n\n<tr>\n\n<td> <font size=\"2\" color=\"black\"> Education:</font>\n </td>\n\n<td> <font size=\"2\" color=\"black\"> Ph. Diploma in Economics, Free University of Berlin, Germany, 2004. Master of Arts in International Economics, Berlin School of Economics and Law, Berlin, Germany, 2006. </font>\n</td>\n\n</tr>\n\n<tr>\n<td> <font size=\"2\" color=\"black\"> Contact:</font> </td>\n\n<td> <font size=\"2\" color=\"black\"> moennig at gws-os.com</font> </td>\n\n</tr>\n\n<tr> \n<td > <font size=\"2\" color=\"black\">  Web </font> </td> \n<td> </td>\n\n<tr>\n<td> \n<font size=\"2\" color=\"black\"> About: </font> </td>\n<td><font size=\"2\" color=\"black\"> \nAnke Mönnig is deputy head of the GWS division ‘Economic and Social Affairs’. Since July 2006, she is working for the GWS. Her thematic focus concentrates on industrial analysis, labor markets and structural change with an emphasis on external trade. She is responsible for the updating and development of the German model INFORGE and the world trade model TINFORGE. The forecast and simulation model INFORGE forms the basis for various model applications within the GWS. Since 2006, Anke Mönnig is part of the project team working on the quantitative and qualitative assessment of industries on behalf of the German Savings Bank Association and Publishing Company (DSGV/DSV). Since several years, she is an active member of the QuBe project (www.qube-projekt.de), in which together with the cooperation partners (BIBB, IAB) the modeling of the German labor market on the supply and the demand side is being promoted. She also works on international projects (Tunisia, Egypt, Israel) with focus on modelling routines in an input-output framework. Furthermore, she shows scientific presence in peer reviewed journals and other publications as well as on international conferences.    </font>\n</td>\n</tr>\n</tr>\n\n\n</table> \n\n- <a href=\"equipo.html\"> Team </a>\n\n</body>\n\n\n</html>",
+    "created" : 1510023029872.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1466759421",
+    "id" : "295AEAB4",
+    "lastKnownWriteTime" : 1510023088,
+    "last_content_update" : 1510023088098,
+    "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/anke.Rmd",
+    "project_path" : "anke.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

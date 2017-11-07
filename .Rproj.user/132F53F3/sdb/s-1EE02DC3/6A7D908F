@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Anett Groẞmann\"\noutput: html_document\n---\n<html>\n<body>\n \n<img src=\"anett.png\" width=\"299\" height=\"350\" align= top * left * bottom>\n\n<table border=\"2\">\n\n<tr>\n<td> <font size=\"2\" color=\"black\"> Research :</font>\n </td>\n\n<td> <font size=\"2\" color=\"black\"> Macroeconomics , Macro-econometric input-output models. </font></td>\n\n<tr>\n\n<td> <font size=\"2\" color=\"black\"> Education:</font>\n </td>\n\n<td> <font size=\"2\" color=\"black\"> PhD, University Osnabrück, 2017. </font>\n</td>\n\n</tr>\n\n<tr>\n<td> <font size=\"2\" color=\"black\"> Contact:</font> </td>\n\n<td> <font size=\"2\" color=\"black\"> grossmann at gws-os.com </font> </td>\n\n</tr>\n\n<tr> \n<td > <font size=\"2\" color=\"black\">  Web: </font> </td> \n<td>  http://www.gws-os.com/de/index.php/wirtschaft-soziales/team/details/member/18.html  </td>\n\n<tr>\n<td> \n<font size=\"2\" color=\"black\"> About: </font> </td>\n<td><font size=\"2\" color=\"black\"> \nHer main fields of interest are the development of computer based national and global forecasting and simulation models for e. g. Austria, Germany and Russia and the quantification of macroeconomic effects of policy measures. Most recently she was mainly involved in the impact analysis of economic and environmental policy measures and their representation in so-called E3 (economy, energy, environment) models. Currently, Mrs. Großmann is increasingly working on industry analysis and (socio-)economic modelling of e.g. demographic issues. Within the research project “Development of Sustainable Mining Strategies in Chile with a Regionalized National Model”, she is responsible for modelling the Chilean Regions.\nShe conducts international model building workshops based on the model building framework \"PortableDyme\". At the \"International Congress on Environmental Modelling and Software\" (iEMSs 2016), her presentation \"E3.pt – an E3 PortableDyme model for Portugal\" about the development of the \"e3.pt\" model for Portugal with the \"PortableDyme\" model building framework was awarded the \"Best Student Paper and Presentation\" price.\n </font>\n</td>\n</tr>\n</tr>\n\n\n</table> \n\n- <a href=\"equipo.html\"> Team </a>\n\n</body>\n\n\n</html>",
+    "created" : 1510022849392.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2422415000",
+    "id" : "6A7D908F",
+    "lastKnownWriteTime" : 1510023017,
+    "last_content_update" : 1510023017893,
+    "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/anett.Rmd",
+    "project_path" : "anett.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
