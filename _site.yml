@@ -6,7 +6,7 @@ navbar:
   left:
     - text: "Home"
       icon: fa-home
-      href: index_en.html
+      href: index.html
     - text: "Team"
       icon: fa-info
       href: equipo.html

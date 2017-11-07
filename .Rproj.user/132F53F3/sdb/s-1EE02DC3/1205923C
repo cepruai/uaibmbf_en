@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "name: \"my-website\"\noutput_dir: \".\"\nnavbar:\n  title: \"BMBF\"\n  type: inverse\n  left:\n    - text: \"Home\"\n      icon: fa-home\n      href: index_en.html\n    - text: \"Team\"\n      icon: fa-info\n      href: equipo.html\n    - text: \"BMBF project\"\n      icon: fa-info\n      href: quienessomos_en.html\n    - text: \"Data\"\n      icon: fa-info\n      href: datos.html\n    - text: \"Preliminary Results\"\n      icon: fa-info\n      href: resultados_en.html\n    - text: \"Research\"\n      icon: fa-info\n      href: publicacion_en.html      \n    - text: \"Language\"\n      icon: fa-language\n      menu:\n      - text: \"English\"\n        href: ingles.html\n      - text: \"Spanish\"\n        href: español.html\n      - text: \"German\"\n        href: aleman.html\n",
+    "contents" : "name: \"my-website\"\noutput_dir: \".\"\nnavbar:\n  title: \"BMBF\"\n  type: inverse\n  left:\n    - text: \"Home\"\n      icon: fa-home\n      href: index.html\n    - text: \"Team\"\n      icon: fa-info\n      href: equipo.html\n    - text: \"BMBF project\"\n      icon: fa-info\n      href: quienessomos_en.html\n    - text: \"Data\"\n      icon: fa-info\n      href: datos.html\n    - text: \"Preliminary Results\"\n      icon: fa-info\n      href: resultados_en.html\n    - text: \"Research\"\n      icon: fa-info\n      href: publicacion_en.html      \n    - text: \"Language\"\n      icon: fa-language\n      menu:\n      - text: \"English\"\n        href: ingles.html\n      - text: \"Spanish\"\n        href: español.html\n      - text: \"German\"\n        href: aleman.html\n",
     "created" : 1510017779961.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3363205554",
+    "hash" : "3178817590",
     "id" : "1205923C",
-    "lastKnownWriteTime" : 1510018294,
-    "last_content_update" : 1510018294125,
+    "lastKnownWriteTime" : 1510065245,
+    "last_content_update" : 1510065245464,
     "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
