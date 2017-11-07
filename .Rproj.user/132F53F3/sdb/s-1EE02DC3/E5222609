@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"\"\noutput: html_document\n---\n<style>\nbody {background-color: powderblue;}\nh1   {color: grey;}\np    {color: black;}\n</style>\n\n### <font face=\"Arial Black\"> Data</font>\n\nOne of the main contributions of the BMBF project is based on the delivery of data for the national and regional policies linked to the mining sector. The team of researchers has compiled more than 300 macro/microeconomic variables related to the national accounts, activity variables, demographic variables, labor variables, input-output matrices, among others.\n \n\nIn the following links you cand find the following databases avaible for download\n\n<html>\n<body>\n\n<font face=\"Arial Black\"> Labor market variables: </font> \n\n- \n\n<font face=\"Arial Black\"> Demographic variables: </font> \n\n- <a href=\"C:/Users/Felipe/Desktop/Descargas/formatos/lt_vgrkont_populationTS\">Cuentas </a> \n\n<font face=\"Arial Black\"> National Accounts </font>\n\n-\n\n<font face=\"Arial Black\"> Input-Output matrices: </font>\n\n-\n\n<font face=\"Arial Black\"> Regional Variables </font>\n\n- \n- \n- \n-  \n\n\n<font face=\"Arial Black\"> Summary statistics: </font>\n\n-\n\n <a href=\"index.html\"> Return to index </a>\n\n</body>\n</html>",
+    "created" : 1509990896115.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1658524666",
+    "id" : "E5222609",
+    "lastKnownWriteTime" : 1510017836,
+    "last_content_update" : 1510017836670,
+    "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/datos.Rmd",
+    "project_path" : "datos.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

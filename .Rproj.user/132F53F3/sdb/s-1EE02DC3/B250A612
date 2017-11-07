@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "\n---\ntitle: <font face=\"Arial Black\">  Working Papers and Research </font>\n---\n\n### <font face=\"Arial Black\">    </font>\n\n<style>\nbody {background-color: powderblue;}\nh1   {color: grey;}\np    {color: black;}\n</style>\n\n#### <font face=\"Arial Black\">    </font>\n \n\n\n<html lang=\"en\">\n<body>\n\n\n\n<center>\n<table border=\"2\">\n\n<tr>\n<td>\n<center><font size=\"2\" color=\"black\">  Researcher </font></center>\n</td>\n\n<td>\n<center><font size=\"2\" color=\"black\">  Article </font></center>\n</td>\n\n<td>\n<center><font size=\"2\" color=\"black\">  Download </font> </center>\n</td>\n</tr>\n<tr>\n<td>\nAAAA\n</td>\n\n<td>\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n</td>\n\n<td>\n <a href=\"C:/Users/Felipe/Desktop/Descargas/formatos/lt_vgrkont_populationTS\">Download\n\n</td>\n</tr>\n\n<tr>\n<td>\nAAAA\n</td>\n\n<td>\nAAAA\n</td>\n\n<td>\n\n</td>\n</tr>\n\n\n<tr>\n<td>\nAAAA\n</td>\n\n<td>\nAAAA\n</td>\n<td>\n\n</td>\n</tr>\n\n<tr>\n<td>\nAAAA\n</td>\n\n<td>\nAAAA\n</td>\n<td>\n</td>\n</tr>\n\n</table>  \n</center>\n\n</body>\n</html>",
+    "created" : 1509987568930.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3450483855",
+    "id" : "B250A612",
+    "lastKnownWriteTime" : 1510017823,
+    "last_content_update" : 1510017823617,
+    "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/publicacion_en.Rmd",
+    "project_path" : "publicacion_en.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\noutput: html_document\n---\n\n<style>\nbody {background-color: powderblue;}\nh1   {color: grey;}\np    {color: black;}\n.topnav {\n  overflow: hidden;\n  background-color: #333;\n}\n\n</style>\n\n\n### <font face=\"Arial Black\">  Preliminary Results </font>\n\n<html>\n<body style=”text-align: justify;”>\n\n<p style=”text-align: justify;”> \n\n\nThrough the development of a model that will allow analyzing the scope of internal and external price shocks on the mining sector, both nationally and spatially, this project seeks to generate relevant information for the discussion and preparation of public policies focused especially on evaluations impact of policies applied to the mining sector. </p>\n\nOne of the main contributions that the project expects to deliver is the development of a new instrument, known as the REIM model (Regional Econometrics Input Output Models), which allows the development of impact evaluations of shocks in economic variables at both the national and regional levels. This will allow improving the information scopes of limited public policy makers for the spatial analysis with the REIMs.</p>   \n\n<p style=”text-align: justify;”>  </p>\n\n<font face=\"Arial Black\">  The results will be published... </font>\n\n\n</body>\n</html>",
+    "created" : 1509991855542.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "137097275",
+    "id" : "9567665",
+    "lastKnownWriteTime" : 1510017830,
+    "last_content_update" : 1510017830044,
+    "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/resultados_en.Rmd",
+    "project_path" : "resultados_en.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
