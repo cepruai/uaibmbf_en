@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"my-website\"\noutput_dir: \".\"\nnavbar:\n  title: \"BMBF\"\n  type: inverse\n  left:\n    - text: \"Home\"\n      icon: fa-home\n      href: index.html\n    - text: \"Equipo\"\n      icon: fa-info\n      href: equipo.html\n    - text: \"Proyecto BMBF\"\n      icon: fa-info\n      href: quienessomos.html\n    - text: \"Datos\"\n      icon: fa-info\n      href: datos.html\n    - text: \"Resultados Preliminares\"\n      icon: fa-info\n      href: resultados.html\n    - text: \"Publicaciones\"\n      icon: fa-info\n      href: publicacion.html      \n    - text: \"Idioma\"\n      icon: fa-language\n      menu:\n      - text: \"Inglés\"\n        href: https://cepruai.github.io/uaibmbf_en/index.html\n      - text: \"Español\"\n        href: https://cepruai.github.io/uaibmbf/index.html\n      - text: \"Alemán\"\n        href: aleman.html\n\n\n",
+    "created" : 1510066549953.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3747542483",
+    "id" : "B618453C",
+    "lastKnownWriteTime" : 1509975786,
+    "last_content_update" : 1510066571691,
+    "path" : "C:/Users/Felipe/Desktop/uaibmbf/_site.yml",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
