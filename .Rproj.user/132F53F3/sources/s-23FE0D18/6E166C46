@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "4165336081",
     "id" : "6E166C46",
-    "lastKnownWriteTime" : 1511801740,
-    "last_content_update" : 1511801740729,
+    "lastKnownWriteTime" : 1511804555,
+    "last_content_update" : 1511804555994,
     "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/datos.Rmd",
     "project_path" : "datos.Rmd",
     "properties" : {
-        "cursorPosition" : "37,0",
-        "scrollLine" : "28"
+        "cursorPosition" : "26,30",
+        "scrollLine" : "19"
     },
     "relative_order" : 5,
     "source_on_save" : false,
