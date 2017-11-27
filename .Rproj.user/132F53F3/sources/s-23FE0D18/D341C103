@@ -1,19 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1511796118873.000,
+    "created" : 1511796287705.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3450483855",
-    "id" : "5C58D01D",
-    "lastKnownWriteTime" : 1510017823,
-    "last_content_update" : 1510017823,
+    "hash" : "0",
+    "id" : "D341C103",
+    "lastKnownWriteTime" : 1511797072,
+    "last_content_update" : 1511797072224,
     "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/publicacion_en.Rmd",
     "project_path" : "publicacion_en.Rmd",
     "properties" : {
+        "cursorPosition" : "44,5",
+        "scrollLine" : "34"
     },
-    "relative_order" : 4,
+    "relative_order" : 5,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
