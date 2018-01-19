@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1511797683527.000,
+    "created" : 1509988918345.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "15C485C6",
-    "lastKnownWriteTime" : 1516372917,
+    "id" : "60636484",
+    "lastKnownWriteTime" : 1516373256,
     "last_content_update" : -2147483648,
-    "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/index.Rmd",
-    "project_path" : "index.Rmd",
+    "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/equipo.Rmd",
+    "project_path" : "equipo.Rmd",
     "properties" : {
-        "cursorPosition" : "16,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "77,29",
+        "scrollLine" : "61"
     },
-    "relative_order" : 6,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
