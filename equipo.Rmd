@@ -55,11 +55,11 @@ p    {color: black;}
     
 #### <font face="Arial Black">  Institute of Economics Structure Research: </font>
 
-- <a href="anke.html"> Anke Möning </a>
+- <a href="anke.html"> Anke Mönning </a>
 
     + Rol: Chief economist
     + Institution: GWS mbH (Institute of Economics Structures Research)
-    + Contact: moening at gws-os.com
+    + Contact: moenning at gws-os.com
   
 - <a href="Marc.html">Marc Ingo Wolter </a>
 
