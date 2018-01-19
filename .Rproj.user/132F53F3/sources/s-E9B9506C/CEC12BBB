@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3898817471",
+    "hash" : "0",
     "id" : "CEC12BBB",
-    "lastKnownWriteTime" : 1510017816,
-    "last_content_update" : 1510017816,
+    "lastKnownWriteTime" : 1516388884,
+    "last_content_update" : -2147483648,
     "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/quienessomos_en.Rmd",
     "project_path" : "quienessomos_en.Rmd",
     "properties" : {
+        "cursorPosition" : "8,1",
+        "scrollLine" : "0"
     },
     "relative_order" : 16,
     "source_on_save" : false,
