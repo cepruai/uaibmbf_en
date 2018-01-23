@@ -45,7 +45,7 @@ output: html_document
 <td><font size="2" color="black"> 
 
 Felipe Morales is actually a research assistant of the Centro de Economía y Política Regional (CEPR), he has worken in topics related to input-output analysis, in the CONICY-BMBF 150061 project. His research interests are Industrial organization, Macroeconomic theory and Economic of Education.
- 
+         
 </font>
  </td>
 </tr>
