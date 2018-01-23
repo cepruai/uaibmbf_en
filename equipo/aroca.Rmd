@@ -67,7 +67,7 @@ Affiliated to the Laboratory of Applied Regional Economics (REAL) of University 
 </table> 
 
 
-- <a href="equipo.html"> Team </a>
+- <a href="http://en.coforce.cl/equipo.html"> Team </a>
 
 </body>
 

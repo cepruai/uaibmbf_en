@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "173538861",
+    "hash" : "1807316595",
     "id" : "895FBD3E",
-    "lastKnownWriteTime" : 1516366361,
-    "last_content_update" : 1516366361,
+    "lastKnownWriteTime" : 1516732864,
+    "last_content_update" : -2147483648,
     "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/equipo/aroca.Rmd",
     "project_path" : "equipo/aroca.Rmd",
     "properties" : {
+        "cursorPosition" : "69,43",
+        "scrollLine" : "49"
     },
     "relative_order" : 19,
     "source_on_save" : false,
