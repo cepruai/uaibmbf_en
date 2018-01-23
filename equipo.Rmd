@@ -22,32 +22,32 @@ p    {color: black;}
     + Contact: patricio.aroca at uai.cl
 
 
-- <a href="eberhard.html"> Juan Pedro Eberhard </a>
+- <a href="/equipo/eberhard.html"> Juan Pedro Eberhard </a>
 
     + Rol: research associate
     + Institution: Universidad Adolfo Ibáñez
     + Contact: juan.eberhard at uai.cl
 
-- <a href="garrido.html"> Nicolás Garrido </a>
+- <a href="/equipo/garrido.html"> Nicolás Garrido </a>
 
     + Rol: research associate
     + Institution: Universidad Diego Portales
     + Contact: nicolas.garrido at udp.cl
   
-- <a href="lopez.html"> Esteban López </a>
+- <a href="/equipo/lopez.html"> Esteban López </a>
 
     + Rol: Post doctorate
     + Institution: Universidad Adolfo Ibáñez
     + Contact: esteban.lopez at uai.cl
 
 
-- <a href="valdebenito.html"> Rocío Valdebenito </a>
+- <a href="/equipo/valdebenito.html"> Rocío Valdebenito </a>
 
     + Rol: research assistant
     + Institution: Centro de Economía y Política Regional
     + Contact: rocio.valdebenito at uai.cl
 
-- <a href="morales.html"> Felipe Morales </a>
+- <a href="/equipo/morales.html"> Felipe Morales </a>
 
     + Rol: research assistant
     + Institution: Centro de Economía y Política Regional.
@@ -55,35 +55,35 @@ p    {color: black;}
     
 #### <font face="Arial Black">  Institute of Economic Structures Research: </font>
 
-- <a href="anke.html"> Anke Mönnig </a>
+- <a href="/equipo/anke.html"> Anke Mönnig </a>
 
     + Rol: Chief economist
     + Institution: GWS mbH (Institute of Economic Structures Research)
     + Contact: moennig at gws-os.com
   
-- <a href="Marc.html">Marc Ingo Wolter </a>
+- <a href="/equipo/Marc.html">Marc Ingo Wolter </a>
 
     + Rol: research associate
     + Institution: GWS mbH (Institute of Economic Structures Research)
     + Contact: wolter at gws-os.com
   
-- <a href="anett.html"> Anett Groẞmann </a>
+- <a href="/equipo/anett.html"> Anett Groẞmann </a>
 
     + Rol: research associate
     + Institution: GWS mbH (Institute of Economic Structures Research)
     + Contact: grossmann at gws-os.com
 
-- <a href="loreto.html">Loreto Bieritz </a>
+- <a href="/equipo/loreto.html">Loreto Bieritz </a>
 
     + Rol: research associate
     + Institution: GWS mbH (Institute of Economic Structures Research)
     + Contact:  bieritz at gws-os.com
 
-- <a href="hohmann.html">Frank Hohmann  </a>
+- <a href="/equipo/hohmann.html">Frank Hohmann  </a>
 
     + Rol: research associate
     + Institution: GWS mbH (Institute of Economic Structures Research)
     + Contact:  hohmann at gws-os.com
 
 
-- <a href="index_en.html"> Return to Index </a>
+- <a href="index.html"> Return to Index </a>
