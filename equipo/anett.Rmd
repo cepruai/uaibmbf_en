@@ -50,7 +50,7 @@ She conducts international model building workshops based on the model building 
 
 </table> 
 
-- <a href="equipo.html"> Team </a>
+- <a href="/equipo/equipo.html"> Team </a>
 
 </body>
 

@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1516731397248.000,
+    "created" : 1516732712871.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "A81CA70D",
-    "lastKnownWriteTime" : 1516731419,
+    "id" : "BB46463D",
+    "lastKnownWriteTime" : 1516732715,
     "last_content_update" : -2147483648,
-    "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/equipo/valdebenito.Rmd",
-    "project_path" : "equipo/valdebenito.Rmd",
+    "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/equipo/equipo.Rmd",
+    "project_path" : "equipo/equipo.Rmd",
     "properties" : {
-        "cursorPosition" : "43,8",
+        "cursorPosition" : "12,7",
         "scrollLine" : "0"
     },
-    "relative_order" : 23,
+    "relative_order" : 30,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
