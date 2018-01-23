@@ -50,7 +50,7 @@ It also focuses its analysis on regional economy, mainly regional inequalities a
 
 </table> 
 
-- <a href="equipo.html"> Team </a>
+- <a href="http://en.coforce.cl/equipo.html"> Team </a>
 </body>
 
 
