@@ -44,14 +44,15 @@ PostDoctorate of the Department of Economics and CEEL (Computable and Experiment
 
 <tr> 
 <td > <font size="2" color="black">  Web </font> </td> 
-<td> sites.google.com/site/nicofgarrido/</td>
+<td> https://sites.google.com/site/nicofgarrido/ /</td>
 </tr>
 
 <tr>
 <td> 
 <font size="2" color="black"> About: </font> </td>
 <td><font size="2" color="black"> 
- </font>
+
+Associate Professor of the Department of Economics of the Universidad Diego Portales. Director of the Magister in Economic Analysis. </font>
 </td>
 </tr>
 </tr>
