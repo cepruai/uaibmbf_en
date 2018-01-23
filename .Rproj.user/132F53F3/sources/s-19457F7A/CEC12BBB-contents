@@ -40,8 +40,7 @@ p    {color: black;}
 
 
 
-
-
+ 
 Copper Forecasting Chile, COFORCE, is a collaborative research project whose central goal is the generation of relevant information for the implementation of public policies related to the mining sector in Chile. 
 
 This project is sponsored by the Universidad Adolfo Ibañez and the Institution of Economics Structures Research. Researchers from Universidad Diego Portales also participate in the project.
@@ -71,11 +70,11 @@ One of the main characteristics of the model is its capacity to aggregate both a
 
 The main sources of information to estimate the equations of the COFORCE model are:
 
-•	Integrated National Accounts
-•	Input-output Matrices
-•	Demographic Data
-•	Time series of Input Prices
-•	Labor Market surveys
+-	Integrated National Accounts
+-	Input-output Matrices
+-	Demographic Data
+-	Time series of Input Prices
+-	Labor Market surveys
 
 The model used in this project is designed to model structural and geographical aspects of economic development in Chile as precisely as possible. This means high resolution at the sector level, modelling regional economic developments within Chile and highly detailed modelling of international trade, broken down by goods and trading partners.
 
@@ -96,4 +95,6 @@ During 2017, the research teams have collected the data required for the develop
 <DIV ALIGN=center> 
 <img src="/quienessomos/lineas.png" width="600" height="670" align= top * left * bottom>
 </DIV>
+
+
 
