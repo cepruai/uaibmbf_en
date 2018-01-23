@@ -39,9 +39,9 @@ Therefore, Research teams from Universidad Adolfo Ibáñez and Gesellschaft für
  
 <DIV ALIGN=center> <h4><font face="Arial Black">  Develop </font></h4> </DIV>
 <DIV ALIGN=center> 
-<a href="http://www.udp.cl"><img src="udp_logo.jpg" width="130" height="170" align= top * left * bottom></a>
-<a href="http://www.uai.cl/"><img src="uai_logo.jpg" width="200" height="170" align= top * left * bottom></a>
-<a href="http://cepr.uai.cl/"><img src="cepr_logo.jpg" width="200" height="170" align= top * left * bottom></a>
+<a href="http://www.udp.cl"><img src="/index/udp_logo.jpg" width="130" height="170" align= top * left * bottom></a>
+<a href="http://www.uai.cl/"><img src="/index/uai_logo.jpg" width="200" height="170" align= top * left * bottom></a>
+<a href="http://cepr.uai.cl/"><img src="/index/cepr_logo.jpg" width="200" height="170" align= top * left * bottom></a>
 <a href="http://www.gws-os.com/de/index.php/home.html"><img src="/index/gws_logo.svg" width="200" height="170" align= top * left * bottom></a>
 </DIV>
 </body>
