@@ -57,7 +57,7 @@ Esteban has worked as a consultant for the Lincoln Institute of Land Policy and 
 
 </table> 
 
-- <a href="equipo.html"> Volver a Equipo </a>
+- <a href="http://en.coforce.cl/equipo.html"> Volver a Equipo </a>
 
 </body>
 
