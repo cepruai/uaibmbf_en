@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1519701338640.000,
+    "created" : 1519747158274.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2628485717",
-    "id" : "C0F0412F",
+    "hash" : "0",
+    "id" : "807E2035",
     "lastKnownWriteTime" : 1519746869,
-    "last_content_update" : -2147483648,
+    "last_content_update" : 1519746869,
     "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/equipo/hohmann.Rmd",
     "project_path" : "equipo/hohmann.Rmd",
     "properties" : {
         "cursorPosition" : "102,918",
-        "scrollLine" : "20"
+        "scrollLine" : "56"
     },
-    "relative_order" : 7,
+    "relative_order" : 13,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
