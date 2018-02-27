@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1519701397170.000,
+    "created" : 1519701431786.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "142926847",
-    "id" : "98F8D12E",
-    "lastKnownWriteTime" : 1519744297,
+    "hash" : "0",
+    "id" : "214E5B86",
+    "lastKnownWriteTime" : 1519744359,
     "last_content_update" : -2147483648,
-    "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/equipo/loreto.Rmd",
-    "project_path" : "equipo/loreto.Rmd",
+    "path" : "C:/Users/Felipe/Desktop/uaibmbf_en/equipo/Marc.Rmd",
+    "project_path" : "equipo/Marc.Rmd",
     "properties" : {
         "cursorPosition" : "46,0",
         "scrollLine" : "8"
     },
-    "relative_order" : 9,
+    "relative_order" : 10,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
