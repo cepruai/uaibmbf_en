@@ -90,7 +90,7 @@ li a:hover {
 <tr>
 <td> <font size="2" color="black"> Contact:</font> </td>
 
-<td> rocio.valdebenito@uai.cl </td>
+<td> rocio.valdebenito@edu.uai.cl </td>
 
 </tr>
 
