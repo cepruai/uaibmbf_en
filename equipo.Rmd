@@ -68,7 +68,7 @@ p    {color: black;}
     + Contact: wolter at gws-os.com
   
 - <a href="/equipo/anett.html"> Anett Groẞmann </a>
-
+  
     + Rol: research associate
     + Institution: GWS mbH (Institute of Economic Structures Research)
     + Contact: grossmann at gws-os.com
