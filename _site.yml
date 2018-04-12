@@ -7,6 +7,9 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "News"
+      icon: fa-info
+      href: noticias.html
     - text: "Team"
       icon: fa-info
       href: equipo.html
