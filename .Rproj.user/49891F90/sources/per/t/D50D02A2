@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531500580602.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1150102724",
+    "id" : "D50D02A2",
+    "lastKnownWriteTime" : 1531497172,
+    "last_content_update" : 1531497172,
+    "path" : "~/GitHub/uaibmbf_en/publicacion_en.Rmd",
+    "project_path" : "publicacion_en.Rmd",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
