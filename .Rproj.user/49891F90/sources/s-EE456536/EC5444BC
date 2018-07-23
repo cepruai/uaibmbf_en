@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4227568150",
+    "hash" : "4177467538",
     "id" : "EC5444BC",
-    "lastKnownWriteTime" : 1532356892,
-    "last_content_update" : 1532356892790,
+    "lastKnownWriteTime" : 1532357681,
+    "last_content_update" : 1532357681353,
     "path" : "~/GitHub/uaibmbf_en/noticias.Rmd",
     "project_path" : "noticias.Rmd",
     "properties" : {
-        "cursorPosition" : "11,1",
-        "scrollLine" : "0"
+        "cursorPosition" : "23,134",
+        "scrollLine" : "12"
     },
     "relative_order" : 3,
     "source_on_save" : false,
