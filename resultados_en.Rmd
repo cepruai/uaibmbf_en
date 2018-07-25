@@ -28,7 +28,17 @@ One of the main contributions that the project expects to deliver is the develop
 
 <p style=”text-align: justify;”>  </p>
 
-<font face="Arial Black">  The results will be published... </font>
+look at the results of the COFORCE project here:
+
+- General Model:
+
+ <a href="http://en.coforce.cl/preliminary_results/paper_anke.html"> Methodology and design of a macro-econometric input-output model for the Chilean economy </a>
+
+- Tax Scenarios:
+
+- Labor Data:
+
+- Energy Scenario:
 
 
 </body>
