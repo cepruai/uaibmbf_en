@@ -38,8 +38,11 @@ look at the results of the COFORCE project here:
 
 - Labor Data:
 
+ <a href="http://en.coforce.cl/preliminary_results/paper_lopez.html"> Data accuracy and economic modelling </a>
+
 - Energy Scenario:
 
+ <a href="http://en.coforce.cl/preliminary_results/paper_garrido.html"> Data accuracy and economic modelling </a>
 
 </body>
 </html>
