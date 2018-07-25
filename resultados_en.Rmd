@@ -42,7 +42,7 @@ look at the results of the COFORCE project here:
 
 - Energy Scenario:
 
- <a href="http://en.coforce.cl/preliminary_results/paper_garrido.html"> Data accuracy and economic modelling </a>
+ <a href="http://en.coforce.cl/preliminary_results/paper_garrido.html"> Economic asssessment of the changes in the energy sources on the chilean mining sector </a>
 
 </body>
 </html>
