@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1544541134808.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
     "id" : "47815B01",
     "lastKnownWriteTime" : 1544542219,
-    "last_content_update" : 1544542219075,
+    "last_content_update" : 1551721010329,
     "path" : "~/GitHub/uaibmbf_en/noticias.Rmd",
     "project_path" : "noticias.Rmd",
     "properties" : {
-        "cursorPosition" : "22,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "30,138",
+        "scrollLine" : "8"
     },
     "relative_order" : 2,
     "source_on_save" : false,
