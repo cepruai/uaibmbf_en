@@ -32,34 +32,34 @@ look at the results of the COFORCE project here:
 
 - <strong> General Model: </strong>
 
-<a href="/resultados_preliminares/Moennig_COFORCE-Methodology and Design.pdf" download>
+<a href="/preliminary_results/Moennig_COFORCE-Methodology and Design.pdf" download>
         <img src="paper_anke.png"  width="300" height="300" title="Methodology and design of a macro-econometric input-output model for the Chilean economy" alt="Flower"> 
 </a> Methodology and design of a macro-econometric input-output model for the Chilean economy    
 
-<a href="/resultados_preliminares/Grossman_IRIO.pdf" download>
+<a href="/preliminary_results/Grossman_IRIO.pdf" download>
         <img src="paper_grossmann.png"  width="300" height="300" title="Regionalisation of the Chilean Model
 COFORCE – an IRIO Approach" alt="Flower"> 
 </a> Regionalisation of the Chilean Model COFORCE – an IRIO Approach
 
-<a href="/resultados_preliminares/Bieritz_Ecomod_final.pdf" download>
+<a href="/preliminary_results/Bieritz_Ecomod_final.pdf" download>
         <img src="paper_bieritz.png"  width="300" height="300" title="The fragility of the copper demand for the chilean economy" alt="Flower"> 
 </a> The fragility of the copper demand for the chilean economy
 
 - <strong> Tax Scenarios:  </strong>
 
-<a href="/resultados_preliminares/The Impact of the Special Mining Tax JE v4.pdf" download>
+<a href="/preliminary_results/The Impact of the Special Mining Tax JE v4.pdf" download>
         <img src="paper_eberhard.png"  width="300" height="300" title="The impact of the Special Mining Tax over key Variables of the Chilean Economy" alt="Flower"> 
 </a> The impact of the Special Mining Tax over key Variables of the Chilean Economy
 
 - <strong> Labor Data:  </strong>
 
-<a href="/resultados_preliminares/LaborMarketDataIssues.pdf" download>
+<a href="/preliminary_results/LaborMarketDataIssues.pdf" download>
         <img src="paper_lopez.png"  width="300" height="300" title="Data accuracy and economic modelling" alt="Flower"> </a> Data accuracy and economic modelling
 
 
 - <strong> Energy Scenario: </strong>
 
-<a href="/resultados_preliminares/Presentation IIOA.pdf" download>
+<a href="/preliminary_results/Presentation IIOA.pdf" download>
         <img src="paper_garrido.png"  width="300" height="300" title="Economic asssessment of the changes in the energy sources on the chilean mining sector" alt="Flower"> </a> Economic asssessment of the changes in the energy sources on the chilean mining sector
         
 
