@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3870006631",
+    "hash" : "3058510087",
     "id" : "611ED49A",
-    "lastKnownWriteTime" : 1540521506,
-    "last_content_update" : 1540521506,
+    "lastKnownWriteTime" : 1551722279,
+    "last_content_update" : 1551722279696,
     "path" : "~/GitHub/uaibmbf_en/equipo.Rmd",
     "project_path" : "equipo.Rmd",
     "properties" : {
+        "cursorPosition" : "20,46",
+        "scrollLine" : "0"
     },
     "relative_order" : 4,
     "source_on_save" : false,
