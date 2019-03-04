@@ -24,7 +24,7 @@ The copper price dropped significantly during the period 2008- 2014.  Simultaneo
 
 Although current evaluations of the impact of movements of the mining industry on the national economy are performed through input-output matrices, models studying regional impacts are not available. Considering the high degree of concentration of the mining industry in Chile, these type of models may be relevant to introduce public policies aimed to the regional growth and development.
 
-Therefore, Research teams from Universidad Adolfo Ibáñez and Gesellschaft für Wirtschaftliche Strukturforschung mbH have joined efforts, with the financial aid of CONICYT and the Bundesministerium für Bildung und Forschung, to develop models allowing to quantify the impact of the mining sector at regional level, and to generate better data at regional level of the effects of the copper price cycle, and other possible shocks to the mining sector. Moreover, the methodology developed could be applied to other sectors.. 
+Therefore, Research teams from Universidad Adolfo Ibáñez and Gesellschaft für Wirtschaftliche Strukturforschung mbH have joined efforts, with the financial aid of CONICYT and the Bundesministerium für Bildung und Forschung, to develop models allowing to quantify the impact of the mining sector at regional level, and to generate better data at regional level of the effects of the copper price cycle, and other possible shocks to the mining sector. Moreover, the methodology developed could be applied to other sectors.
 
 
 

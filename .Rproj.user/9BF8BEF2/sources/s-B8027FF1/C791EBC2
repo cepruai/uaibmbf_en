@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2895569279",
     "id" : "C791EBC2",
-    "lastKnownWriteTime" : 1540521506,
-    "last_content_update" : 1540521506,
+    "lastKnownWriteTime" : 1551722175,
+    "last_content_update" : 1551722175027,
     "path" : "~/GitHub/uaibmbf_en/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "26,52",
-        "scrollLine" : "11"
+        "cursorPosition" : "26,520",
+        "scrollLine" : "0"
     },
     "relative_order" : 3,
     "source_on_save" : false,
