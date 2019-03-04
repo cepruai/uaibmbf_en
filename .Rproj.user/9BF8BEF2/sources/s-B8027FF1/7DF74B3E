@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551722494079.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7DF74B3E",
+    "lastKnownWriteTime" : 1551722500,
+    "last_content_update" : 1551722500824,
+    "path" : "~/GitHub/uaibmbf_en/datos.Rmd",
+    "project_path" : "datos.Rmd",
+    "properties" : {
+        "cursorPosition" : "0,3",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
