@@ -36,7 +36,7 @@ In the following links you cand find the following databases avaible for downloa
 
 - <a href="/datos/mip1996.xls"> IOT 1996 </a> 
 
-- <a href="/DATOS/mip2003.xlsx"> IOT 2003 </a> 
+- <a href="/DATOS/mip2003.xls"> IOT 2003 </a> 
 
 - <a href="/datos/mip2008.xlsx"> IOT 2008 </a> 
 

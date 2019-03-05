@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2716697650",
+    "hash" : "2675209863",
     "id" : "7DF74B3E",
-    "lastKnownWriteTime" : 1551787751,
-    "last_content_update" : 1551787751912,
+    "lastKnownWriteTime" : 1551787925,
+    "last_content_update" : 1551787925837,
     "path" : "~/GitHub/uaibmbf_en/datos.Rmd",
     "project_path" : "datos.Rmd",
     "properties" : {
-        "cursorPosition" : "38,17",
+        "cursorPosition" : "38,29",
         "scrollLine" : "0"
     },
     "relative_order" : 7,
