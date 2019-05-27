@@ -36,7 +36,7 @@ look at the results of the COFORCE project here:
         <img src="paper_anke.png"  width="300" height="300" title="Methodology and design of a macro-econometric input-output model for the Chilean economy" alt="Flower"> 
 </a> Methodology and design of a macro-econometric input-output model for the Chilean economy        
 
-<a href="/preliminary_results/Grossman_IRIO.pdf" download>
+<a href="/preliminary_results/Grossmann_Dec18_IRIO.pdf" download>
         <img src="paper_grossmann.png"  width="300" height="300" title="Regionalisation of the Chilean Model
 COFORCE – an IRIO Approach" alt="Flower"> 
 </a> Regionalisation of the Chilean Model COFORCE – an IRIO Approach

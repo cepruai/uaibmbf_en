@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "432199032",
     "id" : "9A0E5FC",
-    "lastKnownWriteTime" : 1551722415,
-    "last_content_update" : 1551722415918,
+    "lastKnownWriteTime" : 1558960219,
+    "last_content_update" : 1558960219065,
     "path" : "~/GitHub/uaibmbf_en/resultados_en.Rmd",
     "project_path" : "resultados_en.Rmd",
     "properties" : {
-        "cursorPosition" : "26,421",
-        "scrollLine" : "0"
+        "cursorPosition" : "38,54",
+        "scrollLine" : "19"
     },
     "relative_order" : 2,
     "source_on_save" : false,
